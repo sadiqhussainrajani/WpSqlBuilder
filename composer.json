@@ -1,5 +1,5 @@
 {
-    "name" : "sadiqhussainrajani/wpsqlbuilder",
+    "name" : "WpSqlBuilder",
     "autoload": {
         "psr-4": {
             "WpSqlBuilder\\": "includes/"

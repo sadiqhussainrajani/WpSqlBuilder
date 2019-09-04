@@ -11,7 +11,8 @@ I created this library because we had serious server-side performance issues on 
 Download the library and include it by `require`-ing the autoload file:
 
 ```php
-require_once('WpSqlBuilder\autoload.php');
+~~require_once('WpSqlBuilder\autoload.php');~~
+require_once('vendor\autoload.php');
 ```
 
 Now you can use it where you want by `use`-ing the main class:
